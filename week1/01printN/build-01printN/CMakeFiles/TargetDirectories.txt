@@ -1,0 +1,3 @@
+D:/Work/Mooc/week1/01printN/build-01printN/CMakeFiles/01printN.dir
+D:/Work/Mooc/week1/01printN/build-01printN/CMakeFiles/edit_cache.dir
+D:/Work/Mooc/week1/01printN/build-01printN/CMakeFiles/rebuild_cache.dir
