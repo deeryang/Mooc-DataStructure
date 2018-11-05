@@ -1,3 +1,0 @@
-D:\ProgramFiles\CMake\bin\cmake.exe -E remove -f CMakeFiles\03maxSubseqSum.dir/objects.a
-D:\ProgramFiles\Qt\Tools\mingw530_32\bin\ar.exe cr CMakeFiles\03maxSubseqSum.dir/objects.a @CMakeFiles\03maxSubseqSum.dir\objects1.rsp
-D:\ProgramFiles\Qt\Tools\mingw530_32\bin\g++.exe    -Wl,--whole-archive CMakeFiles\03maxSubseqSum.dir/objects.a -Wl,--no-whole-archive  -o 03maxSubseqSum.exe -Wl,--out-implib,lib03maxSubseqSum.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\03maxSubseqSum.dir\linklibs.rsp
