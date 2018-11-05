@@ -1,19 +1,9 @@
-#include <stdio.h>
+#include <iostream>
 
-void printN(int n)
+using namespace std;
+
+int main(int argc, char *argv[])
 {
-    if (n)
-    {
-        printN(n-1);
-        printf("%d\n", n);
-    }
-}
-
-int main()
-{
-    int n;
-    scanf("%d", &n);
-    printN(n);
-
+    cout << "Hello World!" << endl;
     return 0;
 }
