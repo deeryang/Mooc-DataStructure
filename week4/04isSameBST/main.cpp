@@ -28,9 +28,9 @@ Tree insert(Tree T, int V)
     else
     {
         if (V > T->v)
-            T->right = insert(T, V);
+            T->right = insert(T->right, V);
         else
-            T->left = insert(T, V);
+            T->left = insert(T->left, V);
     }
     return T;
 }
