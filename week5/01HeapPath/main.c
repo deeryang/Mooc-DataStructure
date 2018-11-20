@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define MAXN 1001;
 #define MINH -10001;
 
 int H[1001];
@@ -43,14 +42,4 @@ int main() {
     }
     return 0;
 }
-
-//MinHeap CreateHeap(int MaxSize) {
-//    MinHeap H = (MinHeap) malloc(sizeof(struct HNode));
-//    H->Data = (ElementType*) malloc(sizeof(struct ElementType) * (MaxSize + 1));
-//    H->size = 0;
-//    H->Capacity = MaxSize;
-//    H->Data[0] = MAXDATA;
-
-//    return H;
-//}
 
